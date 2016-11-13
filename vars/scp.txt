@@ -1,0 +1,1 @@
+Copy a file to a remote location using SCP.
